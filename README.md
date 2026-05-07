@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Juan Dela Cruz
 
-<!--
-**JerryCelestinoEsperanza/JerryCelestinoEsperanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am Juan Dela Cruz, with a flair for coding and database management skills.  
+I thrive on tackling complex problems and crafting elegant solutions.  
+My journey in tech began when I pursued a **BS Information Technology** program.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- **BS Information Technology**  
+  *New Era University*  
+  *2021 – Present*
+
+---
+
+## 📜 Certifications
+- [NoSQL and DBaaS 101](https://learn.mongodb.com/)  
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://education.oracle.com/oracle-cloud-data-management
