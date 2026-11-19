@@ -15,5 +15,5 @@ My journey in tech began when I pursued a **BS Information Technology** program.
 ---
 
 ## 📜 Certifications
-- [NoSQL and DBaaS 101](https://learn.mongodb.com/)  
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/b8a001ddcad74931bcac19df79f9081d)  
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://education.oracle.com/oracle-cloud-data-management
