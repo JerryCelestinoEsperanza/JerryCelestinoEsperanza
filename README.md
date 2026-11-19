@@ -16,4 +16,4 @@ My journey in tech began when I pursued a **BS Information Technology** program.
 
 ## 📜 Certifications
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/b8a001ddcad74931bcac19df79f9081d)  
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://education.oracle.com/oracle-cloud-data-management
+- [Oracle Cloud Infrastructure Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=AD7AF973CCDA746F9C31EA15B01AB813D211A6F579430F853F2C9D6FAAE5DF41)
